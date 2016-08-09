@@ -1,0 +1,19 @@
+html {
+}
+body {
+
+}
+.mainContainer {
+  text-align: center;
+  background-color: #E8E8E8 ;
+}
+footer {
+  height: 200px;
+  background-color: #303030;
+  color: lightgrey;
+  position: relative;
+}
+p.text {
+  position: relative;
+  top: 160px;
+}
